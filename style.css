@@ -1,5 +1,7 @@
-* {
+body {
     font-family: Georgia, Times, "Times New Roman", serif;
+
+   
 }
 
 /* .quiz, */
@@ -11,7 +13,10 @@
 #top {
     color: green;
 }
-
+img{
+    width: 300px;
+    height: 200px;
+}
 .containerNew {
     border: 5px solid;
     position: absolute;
